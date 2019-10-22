@@ -1,3 +1,4 @@
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR24ro1lCINn0gjXa8-47HmJqCkNzEQLL0RpeFLskCfVifNYUX8lg)
 # Plotly Challenge
 
 # Background:
