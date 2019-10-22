@@ -19,3 +19,9 @@ Use Plotly.js to build interactive charts for your dashboard.
  
  * Display the sample metadata from the route /metadata/<sample>
  * Update all of the plots any time that a new sample is selected.
+ 
+ # Step 2
+ Deploy the app to Heroku
+ 
+ ### Reference
+The completed applicaton can be found on heroku at:  https://dashboard.heroku.com/apps/valmontinteractives
